@@ -1,0 +1,15 @@
+/*Footer*/
+footer{
+	background-color: #989898;
+	height: 50px;
+}
+.mgfooter{
+	margin: -3.5% 0 0 0.5%;
+}
+footer img{
+	margin: 0.5%;
+}
+footer p{
+	float: right;
+	font-size: 14px;
+}
